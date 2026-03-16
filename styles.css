@@ -1,0 +1,90 @@
+/* 导航栏样式 */
+.navbar {
+  background-color: #ff9eb5 !important;
+}
+
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: #ffe6ec !important;
+}
+
+/* 标题样式 */
+h1, h2, h3 {
+  color: #d44e6c;
+  border-bottom: 2px solid #ffb6c1;
+  padding-bottom: 10px;
+}
+
+/* 链接样式 */
+a {
+  color: #d44e6c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff9eb5;
+  text-decoration: underline;
+}
+
+/* 卡片样式（用于获奖页面） */
+div[style*="border: 1px solid #ffb6c1"] {
+  transition: transform 0.2s;
+}
+
+div[style*="border: 1px solid #ffb6c1"]:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(255, 158, 181, 0.3);
+}
+
+/* 表格样式 */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+th {
+  background-color: #ff9eb5;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid #ffb6c1;
+}
+
+tr:nth-child(even) {
+  background-color: #fff5f7;
+}
+
+/* 代码块样式 */
+pre {
+  background-color: #fff5f7;
+  border-left: 4px solid #ff9eb5;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  div[style*="display: grid"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* 页脚样式 */
+.page-footer {
+  background-color: #ff9eb5;
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.page-footer a {
+  color: white;
+}

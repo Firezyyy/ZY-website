@@ -1,0 +1,65 @@
+---
+title: "获奖情况"
+---
+
+## 荣誉称号
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="border: 1px solid #ffb6c1; border-radius: 10px; padding: 20px; background: #fff5f7;">
+<h3 style="color: #d44e6c;">⭐ 校级优秀团员</h3>
+**2022-2023学年**
+表彰在思想引领、团学活动中的突出表现
+</div>
+
+<div style="border: 1px solid #ffb6c1; border-radius: 10px; padding: 20px; background: #fff5f7;">
+<h3 style="color: #d44e6c;">⭐ 院级十佳志愿者</h3>
+**2022-2023学年**
+全院志愿者中综合表现排名前10
+</div>
+
+<div style="border: 1px solid #ffb6c1; border-radius: 10px; padding: 20px; background: #fff5f7;">
+<h3 style="color: #d44e6c;">⭐ 疫情防控优秀志愿者</h3>
+**2021-2022学年**
+疫情防控期间积极参与志愿服务
+</div>
+
+<div style="border: 1px solid #ffb6c1; border-radius: 10px; padding: 20px; background: #fff5f7;">
+<h3 style="color: #d44e6c;">⭐ 图书馆优秀志愿者</h3>
+**2021-2022、2022-2023学年**
+连续两年获得图书馆志愿服务表彰
+</div>
+
+</div>
+
+## 获奖详情
+
+### 2022-2023学年
+**校级"优秀团员"**
+- 颁发单位：湖北工业大学团委
+- 获奖理由：积极参与团组织活动、学习成绩优良、在青年志愿者协会表现突出
+
+**院级"十佳志愿者"**
+- 颁发单位：土木建筑与环境学院
+- 获奖理由：志愿服务时长全院前10、组织策划多场大型志愿活动
+
+**校级"图书馆优秀志愿者"**
+- 颁发单位：湖北工业大学图书馆
+- 获奖理由：每周固定参与图书馆志愿服务、协助图书整理和借阅服务
+
+### 2021-2022学年
+**校级"疫情防控优秀志愿者"**
+- 颁发单位：湖北工业大学
+- 获奖理由：积极参与校园疫情防控、协助核酸检测秩序维护
+
+**校级"图书馆优秀志愿者"**
+- 颁发单位：湖北工业大学图书馆
+- 获奖理由：新生入馆引导服务、图书整理与上架
+
+## 集体荣誉
+
+作为院青年志愿者协会秘书处部长，带领协会获得：
+
+### 2022-2023学年
+- "优秀志愿者组织" - 湖北工业大学
+- "图书馆优秀组织" - 湖北工业大学图书馆

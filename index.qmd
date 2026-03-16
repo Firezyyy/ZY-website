@@ -1,0 +1,58 @@
+---
+title: "周炎的个人主页"
+toc: false
+---
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 30px 0; background: linear-gradient(135deg, #ff9eb5 0%, #ffb6c1 100%); padding: 40px; border-radius: 20px; color: white;">
+<div style="text-align: center;">
+<img src="zy.jpg" style="width: 180px; height: 180px; border-radius: 50%; border: 4px solid white; margin-bottom: 20px; object-fit: cover;">
+<p style="font-size: 1.3em;">周炎 · 华中农业大学 · 资源与环境学院</p>
+<p>中共党员 | 环境工程 | 水污染治理 | 数据分析</p>
+<p style="color: white; margin-top: 20px;">📧 zy030821@163.com | 💻 Firezyyy | 📞 13871503551</p>
+</div>
+</div>
+
+## 个人简介
+
+华中农业大学资源与环境专业硕士生，本科毕业于湖北工业大学环境工程专业。致力于水污染治理、环境监测与数据分析研究。具有丰富的实验室检测经验和现场采样经验，熟练掌握多种环境检测仪器和数据分析软件。
+
+## 教育背景
+
+### 硕士研究生 | 2025.09 - 至今
+**华中农业大学 · 资源与环境学院**
+
+### 本科 | 2021.09 - 2025.06
+**湖北工业大学 · 环境工程专业**
+- 平均学分绩点：3.36（专业前30%）
+
+## 个人技能
+
+**环境工程**
+- AutoCAD、天正建筑、给排水
+- 污水处理厂设计
+- 泵房、填料塔设计
+- 垃圾填埋场设计
+- 尾气处理系统设计
+
+**检测技能**
+- 紫外分光光度计
+- 光谱仪、质谱仪
+- 液相色谱仪
+- 水质采样器、大气采样器
+
+**数据分析**
+- R语言、Python
+- Origin专业绘图
+- Excel高级分析
+- Aerscreen模型
+
+**语言能力**
+- 英语：CET-4，良好的读写译能力
+- 普通话：二级甲等
+
+## 联系方式
+
+- **邮箱**：zy030821@163.com
+- **电话**：13871503551
+- **GitHub**：https://github.com/Firezyyy
+- **地址**：湖北省武汉市华中农业大学

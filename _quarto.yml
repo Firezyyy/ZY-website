@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "周炎的个人主页"
+  description: "华中农业大学资源与环境专业硕士生"
+  site-url: "https://firezyyy.github.io/zy-website"
+  repo-url: "https://github.com/Firezyyy/zy-website"
+  
+  navbar:
+    background: "#ff9eb5"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: research.qmd
+        text: 科研经历
+      - href: projects.qmd
+        text: 实践项目
+      - href: awards.qmd
+        text: 获奖情况
+    right:
+      - icon: github
+        href: https://github.com/Firezyyy
+      - icon: envelope
+        href: mailto:zy030821@163.com
+  
+  page-footer:
+    center: 
+      - text: "© 2026 周炎 个人网站 | 使用Quarto构建"
+        href: https://quarto.org
+
+format:
+  html:
+    theme: cosmo
+    mainfont: "Microsoft YaHei"
+    css: styles.css
+    toc: false
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
